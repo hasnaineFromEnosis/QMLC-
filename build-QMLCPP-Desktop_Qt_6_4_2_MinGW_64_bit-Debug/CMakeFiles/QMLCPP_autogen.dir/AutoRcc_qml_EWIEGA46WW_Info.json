@@ -5,7 +5,11 @@
 	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/hasnaine/Documents/QT Practice/QMLC++/QMLCPP",
 	"CMAKE_SOURCE_DIR" : "C:/Users/hasnaine/Documents/QT Practice/QMLC++/QMLCPP",
 	"INCLUDE_DIR" : "C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/include",
-	"INPUTS" : [ "C:/Users/hasnaine/Documents/QT Practice/QMLC++/QMLCPP/main.qml" ],
+	"INPUTS" : 
+	[
+		"C:/Users/hasnaine/Documents/QT Practice/QMLC++/QMLCPP/Secondary.qml",
+		"C:/Users/hasnaine/Documents/QT Practice/QMLC++/QMLCPP/main.qml"
+	],
 	"LOCK_FILE" : "C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/QMLCPP_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
 	"MULTI_CONFIG" : false,
 	"OPTIONS" : [ "-name", "qml" ],
