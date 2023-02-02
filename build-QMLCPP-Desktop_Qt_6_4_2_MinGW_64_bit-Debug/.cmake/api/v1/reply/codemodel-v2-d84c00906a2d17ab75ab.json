@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4525499b9cd8e8030e43.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QMLCPP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QMLCPP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QMLCPP-Debug-d0b8cb8b1f6c638e4415.json",
+					"name" : "QMLCPP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QMLCPP_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QMLCPP_autogen-Debug-5bd12e753fe2d4af2954.json",
+					"name" : "QMLCPP_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QMLCPP_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QMLCPP_autogen_timestamp_deps-Debug-3f206065e098606b8d5e.json",
+					"name" : "QMLCPP_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QMLCPP_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QMLCPP_qmlimportscan-Debug-248d7b69908cb958f7d2.json",
+					"name" : "QMLCPP_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/hasnaine/Documents/QT Practice/QMLC++/QMLCPP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
