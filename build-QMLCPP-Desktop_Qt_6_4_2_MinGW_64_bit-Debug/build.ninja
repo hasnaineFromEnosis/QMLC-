@@ -65,6 +65,22 @@ build CMakeFiles/QMLCPP.dir/main.cpp.obj: CXX_COMPILER__QMLCPP_Debug C$:/Users/h
   OBJECT_DIR = CMakeFiles\QMLCPP.dir
   OBJECT_FILE_DIR = CMakeFiles\QMLCPP.dir
 
+build CMakeFiles/QMLCPP.dir/person.cpp.obj: CXX_COMPILER__QMLCPP_Debug C$:/Users/hasnaine/Documents/QT$ Practice/QMLC++/QMLCPP/person.cpp || cmake_object_order_depends_target_QMLCPP
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\QMLCPP.dir\person.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17
+  INCLUDES = -I"C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/include" -isystem C:/Qt/6.4.2/mingw_64/include/QtCore -isystem C:/Qt/6.4.2/mingw_64/include -isystem C:/Qt/6.4.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.4.2/mingw_64/include/QtQuick -isystem C:/Qt/6.4.2/mingw_64/include/QtGui -isystem C:/Qt/6.4.2/mingw_64/include/QtQml -isystem C:/Qt/6.4.2/mingw_64/include/QtQmlIntegration -isystem C:/Qt/6.4.2/mingw_64/include/QtNetwork -isystem C:/Qt/6.4.2/mingw_64/include/QtQmlModels -isystem C:/Qt/6.4.2/mingw_64/include/QtOpenGL
+  OBJECT_DIR = CMakeFiles\QMLCPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\QMLCPP.dir
+
+build CMakeFiles/QMLCPP.dir/Database.cpp.obj: CXX_COMPILER__QMLCPP_Debug C$:/Users/hasnaine/Documents/QT$ Practice/QMLC++/QMLCPP/Database.cpp || cmake_object_order_depends_target_QMLCPP
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\QMLCPP.dir\Database.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17
+  INCLUDES = -I"C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/include" -isystem C:/Qt/6.4.2/mingw_64/include/QtCore -isystem C:/Qt/6.4.2/mingw_64/include -isystem C:/Qt/6.4.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.4.2/mingw_64/include/QtQuick -isystem C:/Qt/6.4.2/mingw_64/include/QtGui -isystem C:/Qt/6.4.2/mingw_64/include/QtQml -isystem C:/Qt/6.4.2/mingw_64/include/QtQmlIntegration -isystem C:/Qt/6.4.2/mingw_64/include/QtNetwork -isystem C:/Qt/6.4.2/mingw_64/include/QtQmlModels -isystem C:/Qt/6.4.2/mingw_64/include/QtOpenGL
+  OBJECT_DIR = CMakeFiles\QMLCPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\QMLCPP.dir
+
 build CMakeFiles/QMLCPP.dir/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp.obj: CXX_COMPILER__QMLCPP_Debug C$:/Users/hasnaine/Documents/QT$ Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp || cmake_object_order_depends_target_QMLCPP
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\QMLCPP.dir\QMLCPP_autogen\EWIEGA46WW\qrc_qml.cpp.obj.d
@@ -81,7 +97,7 @@ build CMakeFiles/QMLCPP.dir/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp.obj: CXX_COMPI
 #############################################
 # Link the executable QMLCPP.exe
 
-build QMLCPP.exe: CXX_EXECUTABLE_LINKER__QMLCPP_Debug CMakeFiles/QMLCPP.dir/QMLCPP_autogen/mocs_compilation.cpp.obj CMakeFiles/QMLCPP.dir/main.cpp.obj CMakeFiles/QMLCPP.dir/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp.obj | C$:/Qt/6.4.2/mingw_64/lib/libQt6Quick.a C$:/Qt/6.4.2/mingw_64/lib/libQt6QmlModels.a C$:/Qt/6.4.2/mingw_64/lib/libQt6Qml.a C$:/Qt/6.4.2/mingw_64/lib/libQt6Network.a C$:/Qt/6.4.2/mingw_64/lib/libQt6OpenGL.a C$:/Qt/6.4.2/mingw_64/lib/libQt6Gui.a C$:/Qt/6.4.2/mingw_64/lib/libQt6Core.a C$:/Qt/6.4.2/mingw_64/lib/libQt6EntryPoint.a || QMLCPP_autogen QMLCPP_autogen_timestamp_deps QMLCPP_qmlimportscan
+build QMLCPP.exe: CXX_EXECUTABLE_LINKER__QMLCPP_Debug CMakeFiles/QMLCPP.dir/QMLCPP_autogen/mocs_compilation.cpp.obj CMakeFiles/QMLCPP.dir/main.cpp.obj CMakeFiles/QMLCPP.dir/person.cpp.obj CMakeFiles/QMLCPP.dir/Database.cpp.obj CMakeFiles/QMLCPP.dir/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp.obj | C$:/Qt/6.4.2/mingw_64/lib/libQt6Quick.a C$:/Qt/6.4.2/mingw_64/lib/libQt6QmlModels.a C$:/Qt/6.4.2/mingw_64/lib/libQt6Qml.a C$:/Qt/6.4.2/mingw_64/lib/libQt6Network.a C$:/Qt/6.4.2/mingw_64/lib/libQt6OpenGL.a C$:/Qt/6.4.2/mingw_64/lib/libQt6Gui.a C$:/Qt/6.4.2/mingw_64/lib/libQt6Core.a C$:/Qt/6.4.2/mingw_64/lib/libQt6EntryPoint.a || QMLCPP_autogen QMLCPP_autogen_timestamp_deps QMLCPP_qmlimportscan
   FLAGS = -DQT_QML_DEBUG -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = C:/Qt/6.4.2/mingw_64/lib/libQt6Quick.a  C:/Qt/6.4.2/mingw_64/lib/libQt6QmlModels.a  C:/Qt/6.4.2/mingw_64/lib/libQt6Qml.a  C:/Qt/6.4.2/mingw_64/lib/libQt6Network.a  -lws2_32  C:/Qt/6.4.2/mingw_64/lib/libQt6OpenGL.a  C:/Qt/6.4.2/mingw_64/lib/libQt6Gui.a  C:/Qt/6.4.2/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  C:/Qt/6.4.2/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -luser32  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

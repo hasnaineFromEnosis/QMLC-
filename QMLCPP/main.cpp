@@ -4,6 +4,7 @@
 #include <QQmlContext>
 #include <QQmlEngine>
 #include <QDateTime>
+#include "Database.h"
 
 int main(int argc, char *argv[])
 {
@@ -19,6 +20,9 @@ int main(int argc, char *argv[])
     context->setContextProperty("_background", QColor(Qt::lightGray));
 
     context->setContextProperty("_santa", QVariant::fromValue(Person("Santa", 256)));
+
+    Database db;
+    context->setContextProperty("_db", &db);
 
     view.setSource(QUrl("qrc:/Secondary.qml"));
     view.setTitle("Yo");

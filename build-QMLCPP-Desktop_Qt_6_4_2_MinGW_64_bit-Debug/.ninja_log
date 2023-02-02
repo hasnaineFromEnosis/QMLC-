@@ -1,66 +1,52 @@
 # ninja log v5
 563	807	6970194832750327	CMakeFiles/QMLCPP.dir/QMLCPP_autogen/mocs_compilation.cpp.obj	d8c4f078ecd9e720
 1	151	6970194826201228	.qt_plugins/Qt6_QmlPlugins_Imports_QMLCPP.cmake	cb27dd6c8bfd4cce
-180	1842	6970195260095924	CMakeFiles/QMLCPP.dir/main.cpp.obj	69cab1b34414f320
-9	173	6970195243412591	QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
-9	173	6970195243412591	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
-1	151	6970194826201228	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_QMLCPP.cmake	cb27dd6c8bfd4cce
-5	50	6970196397869385	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp	772715df2e952166
-9	173	6970195243412591	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/timestamp	97be9ed4a047e35
-9	173	6970195243412591	QMLCPP_autogen/timestamp	97be9ed4a047e35
-5	50	6970196397869385	QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp	772715df2e952166
-51	95	6970196398348588	CMakeFiles/QMLCPP.dir/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp.obj	986959ae234caa9b
-95	241	6970196399750012	QMLCPP.exe	1c11ca55e51dc39d
-12	174	6970197852061842	QMLCPP_autogen/timestamp	97be9ed4a047e35
-12	174	6970197852061842	QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
-12	174	6970197852061842	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/timestamp	97be9ed4a047e35
-12	174	6970197852061842	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
-182	228	6970197852573148	QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp	772715df2e952166
-182	228	6970197852573148	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp	772715df2e952166
-228	278	6970197853108226	CMakeFiles/QMLCPP.dir/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp.obj	986959ae234caa9b
-231	1808	6970197868385437	CMakeFiles/QMLCPP.dir/main.cpp.obj	69cab1b34414f320
-1808	1943	6970197869713924	QMLCPP.exe	1c11ca55e51dc39d
-10	153	6970199981231247	QMLCPP_autogen/timestamp	97be9ed4a047e35
-10	153	6970199981231247	QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
-10	153	6970199981231247	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/timestamp	97be9ed4a047e35
-10	153	6970199981231247	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
-160	1755	6970199997252891	CMakeFiles/QMLCPP.dir/main.cpp.obj	69cab1b34414f320
-1755	1885	6970199998512321	QMLCPP.exe	1c11ca55e51dc39d
-5	53	6970205014599652	QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp	772715df2e952166
-5	53	6970205014599652	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp	772715df2e952166
-53	99	6970205015083157	CMakeFiles/QMLCPP.dir/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp.obj	986959ae234caa9b
-99	233	6970205016370986	QMLCPP.exe	1c11ca55e51dc39d
-5	130	6970205493386594	QMLCPP_autogen/timestamp	97be9ed4a047e35
-5	130	6970205493386594	QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
-5	130	6970205493386594	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/timestamp	97be9ed4a047e35
-5	130	6970205493386594	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
-137	1702	6970205509052805	CMakeFiles/QMLCPP.dir/main.cpp.obj	69cab1b34414f320
-1703	1837	6970205510376533	QMLCPP.exe	1c11ca55e51dc39d
-10	146	6970205697554520	QMLCPP_autogen/timestamp	97be9ed4a047e35
-10	146	6970205697554520	QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
-10	146	6970205697554520	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/timestamp	97be9ed4a047e35
-10	146	6970205697554520	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
-152	1743	6970205713490654	CMakeFiles/QMLCPP.dir/main.cpp.obj	69cab1b34414f320
-1743	1874	6970205714792579	QMLCPP.exe	1c11ca55e51dc39d
-11	144	6970205911736411	QMLCPP_autogen/timestamp	97be9ed4a047e35
-11	144	6970205911736411	QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
-11	144	6970205911736411	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/timestamp	97be9ed4a047e35
-11	144	6970205911736411	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
-150	1722	6970205927485407	CMakeFiles/QMLCPP.dir/main.cpp.obj	69cab1b34414f320
-1722	1846	6970205928727676	QMLCPP.exe	1c11ca55e51dc39d
-15	154	6970206091860988	QMLCPP_autogen/timestamp	97be9ed4a047e35
-15	154	6970206091860988	QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
-15	154	6970206091860988	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/timestamp	97be9ed4a047e35
-15	154	6970206091860988	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
-160	1748	6970206107807320	CMakeFiles/QMLCPP.dir/main.cpp.obj	69cab1b34414f320
-1748	1874	6970206109027883	QMLCPP.exe	1c11ca55e51dc39d
-11	57	6970206211653689	QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp	772715df2e952166
-11	57	6970206211653689	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp	772715df2e952166
-57	101	6970206212110907	CMakeFiles/QMLCPP.dir/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp.obj	986959ae234caa9b
-102	228	6970206213339513	QMLCPP.exe	1c11ca55e51dc39d
-4	142	6970206729167149	QMLCPP_autogen/timestamp	97be9ed4a047e35
-4	142	6970206729167149	QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
-4	142	6970206729167149	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/timestamp	97be9ed4a047e35
-4	142	6970206729167149	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
 148	1743	6970206745172575	CMakeFiles/QMLCPP.dir/main.cpp.obj	69cab1b34414f320
+4	142	6970206729167149	QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
+4	142	6970206729167149	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
+1	151	6970194826201228	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_QMLCPP.cmake	cb27dd6c8bfd4cce
+11	57	6970206211653689	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp	772715df2e952166
+4	142	6970206729167149	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/timestamp	97be9ed4a047e35
+4	142	6970206729167149	QMLCPP_autogen/timestamp	97be9ed4a047e35
+11	57	6970206211653689	QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp	772715df2e952166
+57	101	6970206212110907	CMakeFiles/QMLCPP.dir/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp.obj	986959ae234caa9b
 1744	1883	6970206746519075	QMLCPP.exe	1c11ca55e51dc39d
+11	658	6970231626898859	QMLCPP_autogen/timestamp	97be9ed4a047e35
+11	658	6970231626898859	QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
+11	658	6970231626898859	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/timestamp	97be9ed4a047e35
+11	658	6970231626898859	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
+13	794	6970232507065892	QMLCPP_autogen/timestamp	97be9ed4a047e35
+13	794	6970232507065892	QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
+13	794	6970232507065892	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/timestamp	97be9ed4a047e35
+13	794	6970232507065892	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
+14	834	6970232772789210	QMLCPP_autogen/timestamp	97be9ed4a047e35
+14	834	6970232772789210	QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
+14	834	6970232772789210	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/timestamp	97be9ed4a047e35
+14	834	6970232772789210	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
+842	2409	6970232790235977	CMakeFiles/QMLCPP.dir/person.cpp.obj	2a07ac978ddb7191
+835	2769	6970232793837112	CMakeFiles/QMLCPP.dir/QMLCPP_autogen/mocs_compilation.cpp.obj	d8c4f078ecd9e720
+846	2782	6970232793966423	CMakeFiles/QMLCPP.dir/Database.cpp.obj	c5132b941bd50999
+16	308	6970232982538141	QMLCPP_autogen/timestamp	97be9ed4a047e35
+16	308	6970232982538141	QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
+16	308	6970232982538141	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/timestamp	97be9ed4a047e35
+16	308	6970232982538141	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
+326	2549	6970233004949377	CMakeFiles/QMLCPP.dir/main.cpp.obj	69cab1b34414f320
+2549	2815	6970233007590950	QMLCPP.exe	c6b0c4bf65571518
+15	280	6970234812564520	QMLCPP_autogen/timestamp	97be9ed4a047e35
+15	280	6970234812564520	QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
+15	280	6970234812564520	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/timestamp	97be9ed4a047e35
+15	280	6970234812564520	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/mocs_compilation.cpp	97be9ed4a047e35
+292	2438	6970234834128463	CMakeFiles/QMLCPP.dir/main.cpp.obj	69cab1b34414f320
+2438	2614	6970234835852907	QMLCPP.exe	c6b0c4bf65571518
+12	64	6970238016330559	QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp	772715df2e952166
+12	64	6970238016330559	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp	772715df2e952166
+64	109	6970238016812431	CMakeFiles/QMLCPP.dir/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp.obj	986959ae234caa9b
+109	279	6970238018458228	QMLCPP.exe	c6b0c4bf65571518
+4	48	6970238242965183	QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp	772715df2e952166
+4	48	6970238242965183	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp	772715df2e952166
+48	92	6970238243438787	CMakeFiles/QMLCPP.dir/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp.obj	986959ae234caa9b
+92	259	6970238245069340	QMLCPP.exe	c6b0c4bf65571518
+4	49	6970238838950391	QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp	772715df2e952166
+4	49	6970238838950391	C:/Users/hasnaine/Documents/QT Practice/QMLC++/build-QMLCPP-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp	772715df2e952166
+50	96	6970238839444931	CMakeFiles/QMLCPP.dir/QMLCPP_autogen/EWIEGA46WW/qrc_qml.cpp.obj	986959ae234caa9b
+96	266	6970238841105533	QMLCPP.exe	c6b0c4bf65571518
