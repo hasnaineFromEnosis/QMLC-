@@ -18,18 +18,20 @@ int main(int argc, char *argv[])
     context->setContextProperty("_aSize", QSize(800,600));
     context->setContextProperty("_background", QColor(Qt::lightGray));
 
+    context->setContextProperty("_santa", QVariant::fromValue(Person("Santa", 256)));
+
     view.setSource(QUrl("qrc:/Secondary.qml"));
     view.setTitle("Yo");
     view.show();
 
-    QQmlApplicationEngine engine;
-    const QUrl url(QStringLiteral("qrc:/main.qml"));
-    QObject::connect(&engine, &QQmlApplicationEngine::objectCreated,
-                     &app, [url](QObject *obj, const QUrl &objUrl) {
-        if (!obj && url == objUrl)
-            QCoreApplication::exit(-1);
-    }, Qt::QueuedConnection);
-    engine.load(url);
+//    QQmlApplicationEngine engine;
+//    const QUrl url(QStringLiteral("qrc:/main.qml"));
+//    QObject::connect(&engine, &QQmlApplicationEngine::objectCreated,
+//                     &app, [url](QObject *obj, const QUrl &objUrl) {
+//        if (!obj && url == objUrl)
+//            QCoreApplication::exit(-1);
+//    }, Qt::QueuedConnection);
+//    engine.load(url);
 
     return app.exec();
 }
